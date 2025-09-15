@@ -1,0 +1,4 @@
+title: Roleros.cl
+description: Archivo modular de ensayos sobre juegos de rol
+markdown: kramdown
+permalink: /:year/:month/:day/:title
